@@ -1,7 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from routes import tender, bidder, report
+import tender
+import bidder
+import report
 import os
 
 app = FastAPI(title="TenderMind AI")
