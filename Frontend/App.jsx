@@ -1,10 +1,10 @@
 import { Routes, Route, NavLink } from 'react-router-dom'
 import { FileText, Users, BarChart2, Shield } from 'lucide-react'
-import Home from './pages/Home'
-import TenderUpload from './pages/TenderUpload'
-import EvaluateBidders from './pages/EvaluateBidders'
-import Dashboard from './pages/Dashboard'
-import AuditLog from './pages/AuditLog'
+import Home from "./home";
+import TenderUpload from './TenderUpload'
+import EvaluateBidders from './EvaluateBidders'
+import Dashboard from './Dashboard'
+import AuditLog from './AuditLog'
 import './App.css'
 
 export default function App() {
