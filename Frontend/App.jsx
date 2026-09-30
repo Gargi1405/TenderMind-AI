@@ -15,7 +15,7 @@ export default function App() {
           <Shield size={22} />
           <span>TenderMind AI</span>
         </div>
-        <p className="sidebar-tagline">CRPF Procurement Platform</p>
+        <p className="sidebar-tagline">Bid compliance platform</p>
         <nav className="sidebar-nav">
           <NavLink to="/" end><FileText size={16}/> Home</NavLink>
           <NavLink to="/tender"><FileText size={16}/> Upload Tender</NavLink>
