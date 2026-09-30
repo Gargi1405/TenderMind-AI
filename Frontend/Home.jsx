@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <div className="page-header">
         <h1>TenderMind AI</h1>
-        <p>AI-powered tender evaluation for CRPF procurement. 30 days of work in 30 minutes.</p>
+        <p>AI-powered bid compliance platform. 30 days of work in 30 minutes.</p>
       </div>
       <div className="grid-3" style={{marginBottom: 24}}>
         {[
