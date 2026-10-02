@@ -79,24 +79,17 @@ TenderMind AI converts this complex information into structured,
 evidence-backed procurement intelligence for faster and more consistent
 compliance verification.
 
-## 📊 Market Opportunity
+## 📊 Market Opportunity and Key Statistics
 
-Our SIH market model identifies:
 
-- **TAM:** ₹30,000+ Cr
-- **SAM:** ₹3,000–5,000 Cr
-- **SOM:** ₹300–500 Cr
+- 💰 **₹31,543 Cr** — Public Procurement Budget 2025-26
+- 🏛️ **₹44,084 Cr** — DGR budget for 2024–25
+- 📈 **33%** — CRPF share of total CAPF budget
+- ⚙️ **98%** — Revenue expenditure share
+- 🌐 **₹30,000+ Cr** — Estimated Total Addressable Market (TAM)
+- 🎯 **₹3,000–5,000 Cr** — Serviceable Addressable Market (SAM)
+- 🚀 **₹300–500 Cr** — Serviceable Obtainable Market (SOM)
 
-Bid compliance verification can require substantial manual effort across
-multiple documents, eligibility conditions and government sources.
-
-- GST
-- PAN
-- Company Documents
-- Technical Specifications
-- Eligibility Criteria
-- Certificates
-- Financial Documents
 
 # ✨ Key Highlights
 
@@ -313,11 +306,11 @@ TenderMind AI follows a Government-Ready Security Architecture.
 | Stage | Status |
 |---|---|
 | 🚀 Prototype | ✅ Completed |
-| 🧠 AI Compliance Engine | 🔄 In Progress |
-| 🔌 Government Source Integrations | 🔄 In Progress |
+| 🧠 AI Compliance Engine | ✅ Completed |
+| 🔌 Government Source Integrations | ✅ Completed |
 | 🧪 Controlled Pilot | ⏳ Planned |
 | 🏛️ Government Procurement Pilot | ⏳ Planned |
-| 📊 Advanced Procurement Intelligence | ⏳ Planned |
+| 📊 Advanced Procurement Intelligence | ⏳ Progress |
 | 🌍 Multi-Organization Scale | 🎯 Vision |
 
 
